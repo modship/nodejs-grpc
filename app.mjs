@@ -1,5 +1,5 @@
 // import * as grpc from 'grpc';
-import { PublicServiceClient } from '/Users/urvoy/dev/nodejs-grpc/gen/massa/api/v1/public.client';
+import { PublicServiceClient } from './gen/massa/api/v1/public.client';
 import { RpcTransport } from '@protobuf-ts/runtime-rpc';
 // import { GetStatusRequest } from '/Users/urvoy/dev/nodejs-grpc/gen/massa/api/v1/public';
 
